@@ -1,1 +1,1 @@
-export * from './deploy.ts';
+export * from './deploy';
